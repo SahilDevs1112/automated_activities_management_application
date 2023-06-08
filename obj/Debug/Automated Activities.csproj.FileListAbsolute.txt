@@ -1,0 +1,12 @@
+C:\Users\sakhuntia\Music\Dot Net\Automated Activities\bin\Debug\Automated Activities.exe.config
+C:\Users\sakhuntia\Music\Dot Net\Automated Activities\bin\Debug\Automated Activities.exe
+C:\Users\sakhuntia\Music\Dot Net\Automated Activities\bin\Debug\Automated Activities.pdb
+C:\Users\sakhuntia\Music\Dot Net\Automated Activities\obj\Debug\Automated Activities.csproj.AssemblyReference.cache
+C:\Users\sakhuntia\Music\Dot Net\Automated Activities\obj\Debug\Automated Activities.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakhuntia\Music\Dot Net\Automated Activities\obj\Debug\Automated_Activities.LoginPage.resources
+C:\Users\sakhuntia\Music\Dot Net\Automated Activities\obj\Debug\Automated_Activities.Properties.Resources.resources
+C:\Users\sakhuntia\Music\Dot Net\Automated Activities\obj\Debug\Automated Activities.csproj.GenerateResource.cache
+C:\Users\sakhuntia\Music\Dot Net\Automated Activities\obj\Debug\Automated Activities.csproj.CoreCompileInputs.cache
+C:\Users\sakhuntia\Music\Dot Net\Automated Activities\obj\Debug\Automated Activities.exe
+C:\Users\sakhuntia\Music\Dot Net\Automated Activities\obj\Debug\Automated Activities.pdb
+C:\Users\sakhuntia\Music\Dot Net\Automated Activities\obj\Debug\Automated_Activities.MainPage.resources
